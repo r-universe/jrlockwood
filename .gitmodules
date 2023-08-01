@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "eivtools"]
-	path = eivtools
-	url = https://github.com/jrlockwood/eivtools
 [submodule "HETOP"]
 	path = HETOP
 	url = https://github.com/jrlockwood/hetop
+[submodule "eivtools"]
+	path = eivtools
+	url = https://github.com/jrlockwood/eivtools
